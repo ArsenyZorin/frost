@@ -2209,6 +2209,9 @@
     <!-- YouTube Vanced -->
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
 
+	<!-- Y.Food -->
+	<item component="ComponentInfo{ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R}" drawable="yfood"/>
+
     <!-- Y.Taxi -->
     <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="ytaxi"/>
 
