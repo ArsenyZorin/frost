@@ -434,6 +434,9 @@
     <!-- Cinelog -->
     <item component="ComponentInfo{com.ulicae.cinelog/com.ulicae.cinelog.android.activity.MainActivity}" drawable="cinelog" />
 
+    <!-- Cinopsys -->
+    <item component="ComponentInfo{com.cinopsys.movieshows/com.cinopsys.movieshows.ui.Activities.SplashActivity}" drawable="cinopsys"/>
+
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
 
